@@ -2,7 +2,6 @@
 
 First, run the development server:
 
-```bash
 node discord.js
 
 You will need to follow the instrucitons for adding bots to your environment from https://discordjs.guide/.
